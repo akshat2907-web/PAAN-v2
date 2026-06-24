@@ -1,0 +1,7 @@
+<svg width="170" height="58" viewBox="0 0 170 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="168" height="56" rx="6" fill="#FFF9ED" stroke="#D8BE7A" stroke-width="2"/>
+  <path d="M24 30C32 13 49 9 63 16C56 18 48 24 45 35C39 30 31 28 24 30Z" fill="#174B38"/>
+  <path d="M33 29C39 26 47 22 58 16" stroke="#D6AE5C" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="74" y="35" fill="#174B38" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" letter-spacing="1.5">PaaN</text>
+  <path d="M76 43H145" stroke="#D6AE5C" stroke-width="2" stroke-linecap="round"/>
+</svg>
